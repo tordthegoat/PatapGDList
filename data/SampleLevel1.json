@@ -1,6 +1,6 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
+    "id": 89743050,
+    "name": "Inane Demon",
     "author": "LevelUploader",
     "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "Verifier",
@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "guestHDZW",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 200
         }
     ]
 }
