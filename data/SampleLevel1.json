@@ -4,13 +4,12 @@
     "author": "LevelUploader",
     "creators": ["Creator1", "Creator2", "Creator3"],
     "victor": "guestHDZW",
-    "level": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "level": "https://www.youtube.com/watch?v=I5dkVwV5D9c&list=RDI5dkVwV5D9c&start_radio=1",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
             "user": "guestHDZW",
-            "link": "https://www.bing.com/ck/a?!&&p=e42b94516b44a604a401d1b0d1ce2d1384ee993fb7bf872543ec8b1ef7e6315aJmltdHM9MTc3NDMxMDQwMA&ptn=3&ver=2&hsh=4&fclid=3a0626ab-d380-658b-3d5b-3050d29f6461&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9aW5hbmUrZGVtb24mJm1pZD00OTIzOTE5MDJGQjY5RDQ0NDE3QTQ5MjM5MTkwMkZCNjlENDQ0MTdBJkZPUk09VkFNR1pD",
             "percent": 100,
             "hz": 200
         }
